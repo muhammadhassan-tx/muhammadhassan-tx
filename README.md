@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+<h1 align="center">Muhammad Hassan</h1>
+<p align="center"><b>Software Engineer</b> · Building backend systems and APIs</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Software+Engineer;Backend+%7C+APIs+%7C+Cloud;Always+building+something" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-PERSONAL-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadhassan-tx&color=blueviolet&style=flat" />
-</p>
+---
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,postgres,git" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,docker,aws,postgres,git" />
 
-### 📊 Stats
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadhassan-tx&show_icons=true&theme=radical&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan-tx&layout=compact&theme=radical" />
+### 🚀 What I'm working on
+- Building and shipping APIs and cloud infrastructure
+- Learning something new every week
 
-### 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/muhammadhassan-tx/muhammadhassan-tx/output/github-snake.svg)
+### 📫 Reach me
+Open to chatting about backend, cloud, and side projects.
