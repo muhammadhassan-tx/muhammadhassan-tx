@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 
-<!--
-**muhammadhassan-tx/muhammadhassan-tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Software+Engineer;Backend+%7C+APIs+%7C+Cloud;Always+building+something" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadhassan-tx&color=blueviolet&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,postgres,git" />
+
+### 📊 Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadhassan-tx&show_icons=true&theme=radical&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan-tx&layout=compact&theme=radical" />
+
+### 🐍 Contribution Snake
+![snake](https://raw.githubusercontent.com/muhammadhassan-tx/muhammadhassan-tx/output/github-snake.svg)
